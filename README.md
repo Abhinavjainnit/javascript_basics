@@ -1,5 +1,5 @@
 # javascript_basics
-Learning basics of JavaScript 
+Learning basics of JavaScript and HTML CSS
 # JavaScript Basics
 
 Welcome to my repository! My name is Abhinav Kumar Jain, and I am a first-year student at NIT Srinagar. 
